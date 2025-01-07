@@ -1,0 +1,6 @@
+// pour lancer le serveur
+// npm install
+// npm start
+
+// pour lancer le build
+// npm run build   

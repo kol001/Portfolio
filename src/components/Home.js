@@ -4,10 +4,10 @@ function Home() {
   return (
     <section id="home" className="home">
       <div className="home-content">
-        <h1>Hi, It's <span className="highlight">Andrianirina Koloina Tsiorintsoa</span></h1>
-        <p>I'm a <span className="highlight">Frontend Developer</span></p>
+        <h1>Bonjour, Je suis <span className="highlight">Andrianirina Koloina Tsiorintsoa</span></h1>
+        <p>Je suis un <span className="highlight">developpeur</span> passionné par le <span className="highlight">développement</span> d'applications optimisées.</p>
         <p className="description">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam, molestiae.
+        Je suis Koloina, développeur passionné et créatif, spécialisé dans la création d'applications mobiles avec Flutter et React. Mon expertise réside dans le développement d'interfaces modernes, performantes et intuitives, offrant une expérience utilisateur optimale. Grâce à mon expérience, je m'efforce d'apporter des solutions innovantes et de qualité pour chaque projet auquel je participe
         </p>
         
         <div className="buttons">
