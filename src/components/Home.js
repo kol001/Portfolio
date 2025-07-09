@@ -7,7 +7,7 @@ function Home() {
         <h1>Bonjour, Je suis <span className="highlight">Andrianirina Koloina Tsiorintsoa</span></h1>
         <p>Je suis un <span className="highlight">developpeur</span> passionné par le <span className="highlight">développement</span> d'applications optimisées.</p>
         <p className="description">
-        Je suis Koloina, développeur passionné et créatif, spécialisé dans la création d'applications mobiles avec Flutter et React. Mon expertise réside dans le développement d'interfaces modernes, performantes et intuitives, offrant une expérience utilisateur optimale. Grâce à mon expérience, je m'efforce d'apporter des solutions innovantes et de qualité pour chaque projet auquel je participe
+        Je suis un développeur passionné et créatif, spécialisé dans la création d'applications mobiles avec Flutter et React. Mon expertise réside dans le développement d'interfaces modernes, performantes et intuitives, offrant une expérience utilisateur optimale. Grâce à mon expérience, je m'efforce d'apporter des solutions innovantes et de qualité pour chaque projet auquel je participe
         </p>
         
         <div className="buttons">
